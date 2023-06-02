@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suttipongmuk
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...My web e-commerce
+- 👀 I’m interested in ... Web apps, Apps for IOS and Android development
+- 🌱 I’m currently learning ...Begin DevOps Team neww many learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...suttipong.muk@gmail.com
 
